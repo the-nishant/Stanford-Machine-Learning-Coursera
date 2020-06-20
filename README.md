@@ -6,7 +6,7 @@ https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm
 
 Note that, the questions had some experimental parts so I might have changed some code for experimenting and hence may not reflect answers to some parts of the questions.
 
-##Exercises
+## Exercises
 
 - ex1- Linear Regression
 - ex2- Logistic Regression
